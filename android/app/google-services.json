@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "659408970291",
+    "project_id": "hometeach-d6e15",
+    "storage_bucket": "hometeach-d6e15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659408970291:android:70a42549e59458e222f946",
+        "android_client_info": {
+          "package_name": "com.example.home_teach_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659408970291-at9rnh71v9tgb7htp5qvhtfmge4hifpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.home_teach_mobile",
+            "certificate_hash": "5feec9be2cf8e4abfcd98068b1dd634655aa6d76"
+          }
+        },
+        {
+          "client_id": "659408970291-8vt0kj05164l70r9a4n8tpga79ffdhgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7pABUXxVJlZLH3rNm3LrN6H3za9zEgW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659408970291-8vt0kj05164l70r9a4n8tpga79ffdhgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
